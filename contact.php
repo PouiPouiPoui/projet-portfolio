@@ -21,7 +21,7 @@
 		<div class="traitement">
 			<p>Merci <?= $_POST['prenom']. ' ' .$_POST['nom'] ?> pour votre super message.</p>
 
-			<p><a href="index.html">Retour à l'accueil</a></p>
+			<p><a href="index.html">Retour au merveilleux accueil du Scooby Gang</a></p>
 		</div>
 		
 			<?php
